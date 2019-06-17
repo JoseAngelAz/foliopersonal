@@ -1,0 +1,12 @@
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+.tc:hover{
+    text-decoration: aliceblue;
+    text-emphasis-color: inherit;
+    box-shadow: 2px;
+}
+.card-image .android{
+    height: 3em;
+}
